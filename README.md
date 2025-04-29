@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am trying to see if this will work. I hope I have git set up correctly for this repo as well.
 <!--
 **wyfyjohnson/wyfyjohnson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
